@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/server-image.jpg";
 
-const imageAltText = "woman holding laptop standing by server room with glass wall";
+const imageAltText = "Engineering is a future";
 
 const Home = ({ name, title }) => {
   return (
